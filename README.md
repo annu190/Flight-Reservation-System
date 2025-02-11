@@ -10,8 +10,8 @@
 - Admin panel for flight management  
 - Database integration (MySQL or file-based storage)  
 
-Setup & Installation  
-### Prerequisites  
+Setup & Installation
+#Prerequisites  
 - **Java JDK 8+** installed  
 - **MySQL Database** (if using database storage)  
 - **IDE** (Eclipse/IntelliJ/NetBeans)  
