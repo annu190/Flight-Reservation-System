@@ -2,7 +2,7 @@
 
  A Java Swing-based Flight Reservation System that allows users to book, manage, and cancel flights with a user-friendly interface.  
 
-Features:-
+#Features:-
 - User authentication (Login/Register)  
 - Flight search and booking  
 - Passenger details management  
