@@ -11,14 +11,12 @@ Features:-
 - Database integration (MySQL or file-based storage)  
 
 Setup & Installation:-
-
 #Prerequisites  
 - **Java JDK 8+** installed  
 - **MySQL Database** (if using database storage)  
 - **IDE** (Eclipse/IntelliJ/NetBeans)  
 
-Steps  
-1. **Clone the repository**  
+ **Clone the repository**  
    ```sh
    git clone https://github.com/your-username/FlightReservationSystem.git
    cd FlightReservationSystem
